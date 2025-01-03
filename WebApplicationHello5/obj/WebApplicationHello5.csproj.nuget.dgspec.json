@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj": {}
+  },
+  "projects": {
+    "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj",
+        "projectName": "WebApplicationHello5",
+        "projectPath": "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj",
+        "packagesPath": "/Users/richardfremmerlid/.nuget/packages/",
+        "outputPath": "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/richardfremmerlid/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

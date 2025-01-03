@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApplicationHello5/1.0.0": {
+        "runtime": {
+          "WebApplicationHello5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApplicationHello5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
