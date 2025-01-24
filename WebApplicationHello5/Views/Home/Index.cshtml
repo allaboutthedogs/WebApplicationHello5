@@ -5,4 +5,13 @@
 <div class="text-center">
     <h1 class="display-4">github test to new branch2</h1>
     <p>doing a checkin jan23,2025.save1</p>
+    <input type="text" id="userInput" placeholder="Enter text here">
+    <button onclick="showPopup()">Submit</button>
 </div>
+
+<script>
+    function showPopup() {
+        var userInput = document.getElementById("userInput").value;
+        alert("You entered: " + userInput);
+    }
+</script>
