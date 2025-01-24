@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj": {}
+    "/Users/richardfremmerlid/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj": {}
   },
   "projects": {
-    "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj": {
+    "/Users/richardfremmerlid/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj",
+        "projectUniqueName": "/Users/richardfremmerlid/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj",
         "projectName": "WebApplicationHello5",
-        "projectPath": "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj",
+        "projectPath": "/Users/richardfremmerlid/WebApplicationHello5/WebApplicationHello5/WebApplicationHello5.csproj",
         "packagesPath": "/Users/richardfremmerlid/.nuget/packages/",
-        "outputPath": "/Users/richardfremmerlid/Projects/WebApplicationHello5/WebApplicationHello5/obj/",
+        "outputPath": "/Users/richardfremmerlid/WebApplicationHello5/WebApplicationHello5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/richardfremmerlid/.nuget/NuGet/NuGet.Config"
